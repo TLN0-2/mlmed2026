@@ -1,6 +1,5 @@
-USTH Machine Learning in Medicine 2026
-==================================
+# USTH Machine Learning in Medicine 2026
 
-* Your name here
-* Your ID here
-* Your team ID here
+* Student Name: Nguyễn Hoàng Nam
+* Student ID: 23BI14329
+* Team ID: 9
